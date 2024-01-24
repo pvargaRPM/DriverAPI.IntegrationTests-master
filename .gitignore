@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/obj/Debug/net8.0/ref/IntegrationTests.dll
+/obj/Debug/net8.0/IntegrationTests.csproj.BuildWithSkipAnalyzers
+/obj/Debug/net8.0/IntegrationTests.csproj.FileListAbsolute.txt
+/obj/Debug/net8.0/IntegrationTests.dll
+/obj/Debug/net8.0/IntegrationTests.pdb
+/obj/Debug/net8.0/IntegrationTests.sourcelink.json
+/obj/Debug/net8.0/refint/IntegrationTests.dll
+/bin/Debug/net8.0/IntegrationTests.dll
+/bin/Debug/net8.0/IntegrationTests.pdb
+/.vs/IntegrationTests/FileContentIndex/4fd7892b-bb46-4a5d-b1fb-134e17c6be6b.vsidx
+/.vs/IntegrationTests/FileContentIndex/5604502e-eac6-49dc-bf37-b87ee2f35193.vsidx
+/.vs/IntegrationTests/FileContentIndex/ba94bce4-8893-49e5-b7cb-2f8685c8c0f5.vsidx
+/.vs/IntegrationTests/FileContentIndex/d36a0a57-d6b4-422b-8d88-ce13c424148f.vsidx
+/.vs/IntegrationTests/FileContentIndex/e7f087d4-ec72-4a5a-b40b-59f169988001.vsidx
+/.vs/IntegrationTests/FileContentIndex/ed615536-98cc-402b-b2ac-9e9fac090c1d.vsidx
+/.vs/IntegrationTests/FileContentIndex/c151e0f7-5a67-4250-b5b0-9982cdd98cd5.vsidx
+/.vs/IntegrationTests/v17/TestStore/0/000.testlog
+/.vs/IntegrationTests/v17/.suo
+*.vsidx
